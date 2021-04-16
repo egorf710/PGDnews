@@ -1,10 +1,10 @@
-# PGDnews
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>PGDnews</title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
-	<p>Hi</p>
+	<p><b>PGDnews</b></p>
 </body>
 </html>
